@@ -9,4 +9,4 @@ CSP Solver:
       (x y z) indicating the age of z is NOT between those of x and y. I employ a reduction
       to 3SAT, a canonical NP-complete problem, then use a SAT solver combined with
       simulated annealing as a heuristic to solve the problem up to inputs of size 400.
-      I also explore the use of local search optimization to improve starting state performance.
+      I also explore the use of local search methods to improve/optimize starting state performance.
