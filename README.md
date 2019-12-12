@@ -1,5 +1,3 @@
-Miscellaneous Projects:
-
 REINFORCE: Draft of Online Experiment Design for System ID of LTI Systems using RL
 
 Map: Functional Google Maps mockup that uses rastering and routing to provide expected user functionality
